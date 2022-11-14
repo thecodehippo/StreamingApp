@@ -1,1 +1,6 @@
 rootProject.name = 'streaming'
+include 'event-creator'
+include 'event-handler'
+include 'domain'
+include 'clients'
+
